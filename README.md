@@ -22,9 +22,18 @@ b1fa9375fd8c508442628ebd8b7e161ce810ed42
 
 #### Normal Plan
 
-Normal Plan can hold your account up to about 150, Depends on the browser can hold in the local storage. User account including ID and SHA-1 form with your account will store in the local storage of your browser. The non support local storage such as Safari would not support this Hexa Pocket wallet plan.
+Normal Plan can hold your account up to about 150, Depends on the browser can hold in the local storage. User account including ID and SHA-1 form with your account will store in the local storage of your browser. The non support local storage such as Safari would not support this Hexa Pocket wallet plan. Some of the private user data will store in the Hexa Database.
 
+#### Cloud Plan
 
+Cloud Plan can hold your account up unlimitedly, Depends on what storage you choose. User account including ID and SHA-1 form with your account will store in the Hexa Database.
+
+Price Including:
+
+- 1 GB: 2 USDC per years
+- 2 GB: 3 USDC per years
+- 5 GB: 4 USDC per years
+- 10 GB: 5 USDC per years
 
 
 
