@@ -28,7 +28,7 @@ Normal Plan can hold your account up to about 150, Depends on the browser can ho
 
 
 
-## Connect to Hexa Pocket Wallet (Use - Hexa)
+## Connect your Dapps to Hexa Pocket Wallet (Use - Hexa)
 
 ### Connection Button (UI)
 
