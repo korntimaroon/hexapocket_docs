@@ -41,6 +41,23 @@ https://hexapocket.com/{$username}/{$id}/{$publickey-account}
 https://hexapocket.com/account-manage/{$username}/{$id}
 ```
 
+#### Sync with Devices
+
+Hexa Pocket will make a JSON type file contain all of your information in account in to a QR-CODE
+
+> JSON file Example
+
+```json
+[
+  {"chain_num": 1},
+  {"chain_num": 2},
+  {"chain_num": 3},
+  {"chain_num": 4},
+],
+[
+```
+
+
 
 
 ### Comparing Plan
