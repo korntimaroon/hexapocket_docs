@@ -18,6 +18,12 @@ b1fa9375fd8c508442628ebd8b7e161ce810ed42
 ```
 
 
+### Comparing Plan
+
+#### Normal Plan
+
+Normal Plan can hold your account up to about 150, Depends on the browser can hold in the local storage. User account including ID and SHA-1 form with your account will store in the local storage of your browser. The non support local storage such as Safari would not support this Hexa Pocket wallet plan.
+
 
 
 
