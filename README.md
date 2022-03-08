@@ -4,6 +4,10 @@
 
 ### User Security
 
+<style>H1{color:Blue;}</style>
+<style>H2{color:DarkOrange;}</style>
+<style>p{color:Black;}</style>
+
 #### Storing and Backup (User Database)
 
 `r colorize("some words in red", "red")`
