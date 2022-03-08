@@ -19,6 +19,10 @@ User Account key convert to SHA-1 while signup then will convert to the QR-code,
 b1fa9375fd8c508442628ebd8b7e161ce810ed42
 ```
 
+##### Export your account (Normal Plan)
+
+> To export your account whether you change your browser or change your device you could go to the Exportation Menu in setting and click export your account to a hexa json format and throw the file in your new browser or device added account in Hexa Pocket Website account management page because if you are using normal plan the account will not be save if you are changing your device or browser
+
 #### Link URL
 
 Hexa Pocket use Nextjs Dynamic Routes which can make your data such as your public key and your dashbord more securely.
