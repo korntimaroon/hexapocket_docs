@@ -6,11 +6,17 @@
 
 User Account key convert to SHA-256 then will convert to the QR-code, when Hexa Pocket platform scan it will convert back from QR-code to SHA-256 and SHA-256 will turn to the JSON form.
 
-> Example User Account Key
+> Example of User Account Key
 
 ```json
 [{"hexa_id": 1,"hexa_name": "Korn", "hexa_middle_name": null, "hexa_last_name": "Timaroon","hexa_key": "9iuwhe2uio1kj"}]
 ```
+> Example of SHA-256 (Data from above code)
+
+```
+EEA72F116AE750A0D6D7BE6DBFE62C57665EE220EBFB27FF59892D152866A7ED
+```
+
 
 
 
