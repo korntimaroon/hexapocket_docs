@@ -45,5 +45,10 @@ function Click_connect() {
 
 ## Sent Money
 
+```javascript
+var sent_amount
+var sent_account
+var sent_public_key
+```
 
 
