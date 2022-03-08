@@ -4,6 +4,8 @@
 
 ### User Security
 
+#### Storing and Backup (User Database)
+
 User Account key convert to SHA-1 while signup then will convert to the QR-code, when Hexa Pocket platform scan it will convert back from QR-code to SHA-1 then Hexa Pocket will compare to the database whether is correct or not
 
 > Example of User Account Key
@@ -16,6 +18,25 @@ User Account key convert to SHA-1 while signup then will convert to the QR-code,
 ```
 b1fa9375fd8c508442628ebd8b7e161ce810ed42
 ```
+
+#### Link URL
+
+Hexa Pocket use Nextjs Dynamic Routes which can make your data such as your public key and your dashbord more securely.
+
+> Example of Hexa Pocket Nextjs Dynamic Routes (Open Account)
+
+
+```
+https://hexapocket.com/{$username}/{$id}/{$publickey-account}
+```
+
+> Example of Hexa Pocket Nextjs Dynamic Routes (Account-Management Page)
+
+
+```
+https://hexapocket.com/account-manage/{$username}/{$id}
+```
+
 
 
 ### Comparing Plan
@@ -30,7 +51,7 @@ Cloud Plan can hold your account up unlimitedly, Depends on what storage you cho
 
 Price Including:
 
-- 1 GB: 2 USDC per years
+- 1 GB: 2 USDC per years 
 - 2 GB: 3 USDC per years
 - 5 GB: 4 USDC per years
 - 10 GB: 5 USDC per years
