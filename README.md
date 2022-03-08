@@ -23,11 +23,11 @@ b1fa9375fd8c508442628ebd8b7e161ce810ed42
 
 All of Hexa Pocket data is store in Postgresql 
 
-User Database Storing Example
+>User Database Storing Example
 
 | hexa_id | hexa_fullname | hexa_user_name | hexa_middle_name | hexa_last_name | fist_account | password | last_active | additional_data |
 |---------|---------------|----------------|------------------|----------------|--------------|----------|-------------|-----------------|
-
+|1|Korn|null|korntimaroon|Timaroon|[{}]|ssoikjc|12/12/12|null|
 
 #### Export your account (Normal Plan)
 
