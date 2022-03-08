@@ -28,7 +28,7 @@ Include Poppins Font
 ## Javascript Code (React, Next)
 
 >Install Package
->
+
 ```
 npm install hexapocket_pack
 ```
@@ -40,3 +40,10 @@ function Click_connect() {
   hexapocket_pack.getconnectaccount();
 }
 ```
+
+# Use Hexa Pocket Quickswap API
+
+## Sent Money
+
+
+
