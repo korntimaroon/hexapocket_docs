@@ -31,9 +31,11 @@ All of Hexa Pocket data is store in Postgresql
 
 >Account Wallet Database (Cloud Plan)
 
-| hexa_id | account_public_key | account_name | account_private_key | additional_data |
+| hexa_id | account_public_key | hexa_user_name | account_private_key | additional_data |
 |---------|---------------|----------------|------------------|----------------|
-|1|Korn|null|korntimaroon|Timaroon|
+|1|0xdkuiiu2jjoe938u3uw9qi|korntimaroon|sndu3i2jewu8ijuiekjfui|null|
+
+
 
 #### Export your account (Normal Plan)
 
