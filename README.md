@@ -5,6 +5,6 @@
 ## Connection Button (UI)
 
 ### 
-```
-<button> Hexa Pocket </button>
+```html:
+<button>Hexa Pocket</button>
 ```
