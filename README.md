@@ -19,11 +19,21 @@ User Account key convert to SHA-1 while signup then will convert to the QR-code,
 b1fa9375fd8c508442628ebd8b7e161ce810ed42
 ```
 
-##### Export your account (Normal Plan)
+#### The Database
+
+All of Hexa Pocket data is store in Postgresql 
+
+User Database Storing Example
+
+| hexa_id | hexa_fullname | hexa_user_name | hexa_middle_name | hexa_last_name | fist_account | password | last_active | additional_data |
+|---------|---------------|----------------|------------------|----------------|--------------|----------|-------------|-----------------|
+
+
+#### Export your account (Normal Plan)
 
 To export your account whether you change your browser or change your device you could go to the Exportation Menu in setting and click export your account to a hexa json format and throw the file in your new browser or device added account in Hexa Pocket Website account management page because if you are using normal plan the account will not be save if you are changing your device or browser
 
-##### Export your account (Cloud Plan)
+#### Export your account (Cloud Plan)
 
 In cloud plan you don't need to export anything because all of your data is stored in Hexa Pocket database.
 
