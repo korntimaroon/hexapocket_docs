@@ -6,7 +6,7 @@
 
 #### Storing and Backup (User Database)
 
-In his beard lived three <span style="color:red">cardinals</span>.
+> violets are [blue]{color="blue"}.
 
 User Account key convert to SHA-1 while signup then will convert to the QR-code, when Hexa Pocket platform scan it will convert back from QR-code to SHA-1 then Hexa Pocket will compare to the database whether is correct or not
 
