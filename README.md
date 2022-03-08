@@ -27,7 +27,7 @@ All of Hexa Pocket data is store in Postgresql
 
 | hexa_id | hexa_fullname | hexa_user_name | hexa_middle_name | hexa_last_name | fist_account | password | last_active | additional_data |
 |---------|---------------|----------------|------------------|----------------|--------------|----------|-------------|-----------------|
-|1|Korn|null|korntimaroon|Timaroon|[{}]|password|12/12/12|null|
+|1|Korn|null|korntimaroon|Timaroon|[{}]|password|12/12/12|<span style="color:red">null|
 
 >Account Wallet Database (Cloud Plan)
 
