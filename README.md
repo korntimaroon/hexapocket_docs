@@ -55,6 +55,8 @@ Hexa Pocket will make a JSON type file contain all of your information in accoun
   {"chain_num": 4},
 ],
 [
+  {"account_public": "0098327yguy3tfeg","account_name": "Ryu Account 1","account_private": "lkjdhgsyuiksdnbhuwidsj", network: {"1": [{"token": 1},{"token": 2}]}},
+  {"account_public": "0098327yguy3wstfeg","account_name": "Ryu Account 2","account_private": "lkjdhgsyusdcdikdnbhuwidsj", network: {"1": [{"token": 1},{"token": 2}]}},
 ```
 
 
