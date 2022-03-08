@@ -7,7 +7,7 @@
 >Code (HTML)
 
 ```html
-<button className="hexa_button">Hexa Pocket</button>
+<button onClick={Click_connect} id="hexa_connect" className="hexa_button">Hexa Pocket</button>
 ```
 
 >Code (Style)
@@ -21,4 +21,22 @@ Include Poppins Font
   font-weight:bolder;
   background-color: #27257A;
   color:white;
+  height:30px;
+  width:70px;
+}
+```
+## Javascript Code (React, Next)
+
+>Install Package
+>
+```
+npm install hexapocket_pack
+```
+
+> Connection
+
+```javascript
+function Click_connect() {
+  hexapocket_pack.getconnectaccount();
+}
 ```
