@@ -79,6 +79,10 @@ const web3 = new Web3('https://rpc-mainnet.maticvigil.com/')
 - https://hexa-chainlist.com/
 - https://chainlist.org/
 
+#### Hexa Pocket Use Network Features
+
+Hexa Pocket has a list of the popular networks you can use if you want. You can add and edit new networks or even your own networks as well.
+
 #### Export your account (Normal Plan)
 
 To export your account whether you change your browser or change your device you could go to the Exportation Menu in setting and click export your account to a hexa json format and throw the file in your new browser or device added account in Hexa Pocket Website account management page because if you are using normal plan the account will not be save if you are changing your device or browser
