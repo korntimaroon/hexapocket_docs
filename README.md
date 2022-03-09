@@ -177,6 +177,15 @@ isBlink: true
 ```
 
 
+### Transaction and Tax
+
+#### Tax
+
+Hexa Pocket will charge you 2% for every transaction in the wallet.
+
+
+
+
 
 ### Comparing Plan
 
