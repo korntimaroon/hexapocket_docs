@@ -75,9 +75,9 @@ const web3 = new Web3('https://rpc-mainnet.maticvigil.com/')
 
 > Source
 
-> https://docs.binance.org/smart-chain/developer/BEP20.html
-> https://hexa-chainlist.com/
-> https://chainlist.org/
+- https://docs.binance.org/smart-chain/developer/BEP20.html
+- https://hexa-chainlist.com/
+- https://chainlist.org/
 
 #### Export your account (Normal Plan)
 
