@@ -27,7 +27,7 @@ b1fa9375fd8c508442628ebd8b7e161ce810ed42
 
 All of Hexa Pocket data is store in Postgresql 
 
->User Database Storing Example
+>User Database Storing Example (Normal Plan)
 
 | hexa_id | hexa_fullname | hexa_user_name | hexa_middle_name | hexa_last_name | fist_account | password | last_active | additional_data |
 |---------|---------------|----------------|------------------|----------------|--------------|----------|-------------|-----------------|
@@ -45,12 +45,15 @@ List of Plugin Chain
 
 - Hexa Pocket will use Hexa Chain List API to store all of the information of all networks.
 
+> Mainnet
+
 | Chain Name | Chain ID | Chain Currency|
 |------------|----------|---------------|
 | Ethereum Mainnet | 1 | ETH|
 | Binance Smart Chain Mainnet | 56 | BNB |
 | Polygon Mainnet | 137 | MATIC |
 
+> Testnet
 
 | Chain Name | Chain ID | Chain Currency|
 |------------|----------|---------------|
