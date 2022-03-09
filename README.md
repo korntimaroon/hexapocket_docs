@@ -39,7 +39,7 @@ All of Hexa Pocket data is store in Postgresql
 
 #### Plugin Chain and Coin
 
-List of Plugin Chain
+List of Plugin Chain and Provider
 
 - Hexa Pocket will use Hexa Chain List API to store all of the information of all networks.
 
@@ -60,7 +60,7 @@ List of Plugin Chain
 | Rinkerby Test Network | 4 | ETH |
 | Goerli Test Network | 5 | ETH |
 
-##### Mainnet Web3js Provider List
+> Mainnet Web3js Provider List
 
 ```javascript
 const Web3 = require('web3');
@@ -73,10 +73,7 @@ const web3 = new Web3('https://rpc-mainnet.maticvigil.com/')
 
 ```
 
-
-
-
-##### Source
+> Source
 
 > https://docs.binance.org/smart-chain/developer/BEP20.html
 > https://hexa-chainlist.com/
