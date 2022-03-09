@@ -102,7 +102,6 @@ var isEdge = !isIE && !!window.StyleMedia;
 var isChrome = !!window.chrome && (!!window.chrome.webstore || !!window.chrome.runtime);
 var isEdgeChromium = isChrome && (navigator.userAgent.indexOf("Edg") != -1);
 var isBlink = (isChrome || isOpera) && !!window.CSS;
-var output = 'Detecting browsers by ducktyping:<hr>';
 output += 'isFirefox: ' + isFirefox + '<br>';
 output += 'isChrome: ' + isChrome + '<br>';
 output += 'isSafari: ' + isSafari + '<br>';
@@ -112,6 +111,19 @@ output += 'isEdge: ' + isEdge + '<br>';
 output += 'isEdgeChromium: ' + isEdgeChromium + '<br>';
 output += 'isBlink: ' + isBlink + '<br>';
 document.body.innerHTML = output;
+```
+
+> Output
+
+```
+isFirefox: false
+isChrome: true
+isSafari: false
+isOpera: false
+isIE: false
+isEdge: false
+isEdgeChromium: false
+isBlink: true
 ```
 
 
