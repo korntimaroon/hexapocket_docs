@@ -43,6 +43,8 @@ All of Hexa Pocket data is store in Postgresql
 
 List of Plugin Chain
 
+- Hexa Pocket will use Hexa Chain List API to store all of the information of all networks.
+
 | Chain Name | Chain ID | Chain Currency|
 |------------|----------|---------------|
 | Ethereum Mainnet | 1 | ETH|
