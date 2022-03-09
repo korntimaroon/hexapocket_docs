@@ -71,6 +71,7 @@ https://hexapocket.com/account-manage/{$username}/{$id}
 
 Hexa Pocket will make a JSON type file contain all of your information in account in to a QR-CODE
 
+
 > JSON file Example
 
 ```json
@@ -86,6 +87,32 @@ Hexa Pocket will make a JSON type file contain all of your information in accoun
 ]
 ```
 
+#### Browser Detector
+
+Hexa Pocket will detect the browser every time you enter the website because some of the browser do not support Hexa Pocket such as Safari.
+
+> Browser Detect Code
+
+```javascript
+var isOpera = (!!window.opr && !!opr.addons) || !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0;
+var isFirefox = typeof InstallTrigger !== 'undefined'; 
+var isSafari = /constructor/i.test(window.HTMLElement) || (function (p) { return p.toString() === "[object SafariRemoteNotification]"; })(!window['safari'] || (typeof safari !== 'undefined' && window['safari'].pushNotification));
+var isIE = /*@cc_on!@*/false || !!document.documentMode;
+var isEdge = !isIE && !!window.StyleMedia;
+var isChrome = !!window.chrome && (!!window.chrome.webstore || !!window.chrome.runtime);
+var isEdgeChromium = isChrome && (navigator.userAgent.indexOf("Edg") != -1);
+var isBlink = (isChrome || isOpera) && !!window.CSS;
+var output = 'Detecting browsers by ducktyping:<hr>';
+output += 'isFirefox: ' + isFirefox + '<br>';
+output += 'isChrome: ' + isChrome + '<br>';
+output += 'isSafari: ' + isSafari + '<br>';
+output += 'isOpera: ' + isOpera + '<br>';
+output += 'isIE: ' + isIE + '<br>';
+output += 'isEdge: ' + isEdge + '<br>';
+output += 'isEdgeChromium: ' + isEdgeChromium + '<br>';
+output += 'isBlink: ' + isBlink + '<br>';
+document.body.innerHTML = output;
+```
 
 
 
