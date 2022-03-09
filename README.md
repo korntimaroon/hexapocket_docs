@@ -49,7 +49,16 @@ List of Plugin Chain
 |------------|----------|---------------|
 | Ethereum Mainnet | 1 | ETH|
 | Binance Smart Chain Mainnet | 56 | BNB |
-| Polygon Mainnet | null | MATIC |
+| Polygon Mainnet | 137 | MATIC |
+
+
+| Chain Name | Chain ID | Chain Currency|
+|------------|----------|---------------|
+| Ropsten Test Network | 3 | ETH |
+| Kovan Test Network | 43 | ETH |
+| Rinkerby Test Network | 4 | ETH |
+| Goerli Test Network | 5 | ETH |
+
 
 #### Export your account (Normal Plan)
 
