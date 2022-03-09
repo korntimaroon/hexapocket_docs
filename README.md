@@ -8,8 +8,6 @@
 
 #### Storing and Backup (User Database)
 
-`r colorize("some words in red", "red")`
-
 User Account key convert to SHA-1 while signup then will convert to the QR-code, when Hexa Pocket platform scan it will convert back from QR-code to SHA-1 then Hexa Pocket will compare to the database whether is correct or not
 
 > Example of User Account Key
