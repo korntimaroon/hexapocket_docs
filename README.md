@@ -60,6 +60,27 @@ List of Plugin Chain
 | Rinkerby Test Network | 4 | ETH |
 | Goerli Test Network | 5 | ETH |
 
+##### Mainnet Web3js Provider List
+
+```javascript
+const Web3 = require('web3');
+// BSC Mainnet
+const web3 = new Web3('https://bsc-dataseed1.binance.org:443');
+// Ethereum Mainnet
+const web3 = new Web3('https://api.mycryptoapi.com/eth')
+// Polygon Mainnet
+const web3 = new Web3('https://rpc-mainnet.maticvigil.com/')
+
+```
+
+
+
+
+##### Source
+
+> https://docs.binance.org/smart-chain/developer/BEP20.html
+> https://hexa-chainlist.com/
+> https://chainlist.org/
 
 #### Export your account (Normal Plan)
 
