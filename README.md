@@ -39,7 +39,15 @@ All of Hexa Pocket data is store in Postgresql
 |---------|---------------|----------------|------------------|----------------|
 |1|0xdkuiiu2jjoe938u3uw9qi|korntimaroon|sndu3i2jewu8ijuiekjfui|null|
 
+#### Plugin Chain and Coin
 
+List of Plugin Chain
+
+| Chain Name | Chain ID | Chain Currency|
+|------------|----------|---------------|
+| Ethereum Mainnet | 1 | ETH|
+| Binance Smart Chain Mainnet | 56 | BNB |
+| Polygon Mainnet | null | MATIC |
 
 #### Export your account (Normal Plan)
 
