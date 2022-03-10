@@ -81,11 +81,21 @@ The Plugin network will store in Hexa Pocket API in JSON format.
 [{"network": "Ethereum Mainnet", "network_id": "1", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"}]
 ```
 
+
+
+
 > Source
 
 - https://docs.binance.org/smart-chain/developer/BEP20.html
 - https://hexa-chainlist.com/
 - https://chainlist.org/
+
+
+#### Hexa Pocket Browser Support
+
+
+
+
 
 #### Hexa Pocket Use Network Features
 
