@@ -215,6 +215,11 @@ Price Including:
 - 10 GB: 5 USDC per years
 
 
+## Use Hexa Connection API
+
+
+
+
 
 ## Connect your Dapps to Hexa Pocket Wallet (Use - Hexa)
 
