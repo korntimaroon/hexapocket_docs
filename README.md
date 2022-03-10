@@ -89,6 +89,7 @@ The Plugin network will store in Hexa Pocket API in JSON format.
 - https://docs.binance.org/smart-chain/developer/BEP20.html
 - https://hexa-chainlist.com/
 - https://chainlist.org/
+- https://replit.com/@KornTimaroon/FragrantPotableSoftwareagent#index.js
 
 
 #### Hexa Pocket Browser Support
