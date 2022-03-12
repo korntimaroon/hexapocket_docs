@@ -98,6 +98,15 @@ The Plugin network will store in Hexa Pocket API in JSON format.
 
 Hexa Pocket supports all browsers and work in different methods. Such as Google Chrome and Safari, In Google Chrome Hexa Pocket While user opens extension with website in google chromeextension will closes itself as 2 Hexa Pocket windows cannot be opened at the same time. But in safari there is no extension. So when people transact cryptocurrencies, the Hexa Pocken window opens as a safari notification confirming the people to make the transaction.
 
+#### Hexa Pocket Secret Phrase Keys (10 Words)
+
+In this feature, Hexa Pocket supports Secret Phrase Key up to 10^145 words as it contains 145 words.
+
+> Example
+
+```
+it asset I are wooden asset rocket block person noddle 
+```
 
 
 #### Hexa Pocket Use Network Features
