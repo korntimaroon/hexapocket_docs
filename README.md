@@ -94,9 +94,14 @@ The Plugin network will store in Hexa Pocket API in JSON format.
 - https://www.google.com/search?q=ethereum+wallet+dashboard+ui&tbm=isch&ved=2ahUKEwjQ7rXhkLv2AhUKXWwGHZuWDHoQ2-cCegQIABAA&oq=ethereum+wallet+dashboard+ui&gs_lcp=CgNpbWcQA1DMBFj9DmDcEGgAcAB4AIABVogB0ASSAQE4mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=frcpYtC3PIq6seMPm62y0Ac&bih=1001&biw=1920&rlz=1C5CHFA_enTH944TH944#imgrc=IYiIjzP-XLTHTM&imgdii=vnjm-gk8uMLofM
 
 
+
 #### Hexa Pocket Browser Support
 
 Hexa Pocket supports all browsers and work in different methods. Such as Google Chrome and Safari, In Google Chrome Hexa Pocket While user opens extension with website in google chromeextension will closes itself as 2 Hexa Pocket windows cannot be opened at the same time. But in safari there is no extension. So when people transact cryptocurrencies, the Hexa Pocken window opens as a safari notification confirming the people to make the transaction.
+
+// Version Browser Supported
+<img width="675" alt="image" src="https://user-images.githubusercontent.com/86138908/158092256-37abf2cb-230e-4041-bce3-496dd66f9411.png">
+
 
 #### Hexa Pocket Secret Phrase Keys (10 Words)
 
