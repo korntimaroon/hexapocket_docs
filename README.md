@@ -93,6 +93,7 @@ The Plugin network will store in Hexa Pocket API in JSON format.
 - https://www.google.com/search?q=ethereum+wallet+dashboard+ui&tbm=isch&ved=2ahUKEwjQ7rXhkLv2AhUKXWwGHZuWDHoQ2-cCegQIABAA&oq=ethereum+wallet+dashboard+ui&gs_lcp=CgNpbWcQA1DMBFj9DmDcEGgAcAB4AIABVogB0ASSAQE4mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=frcpYtC3PIq6seMPm62y0Ac&bih=1001&biw=1920&rlz=1C5CHFA_enTH944TH944#imgrc=zTzn_vsY0XMBqM
 - https://www.google.com/search?q=ethereum+wallet+dashboard+ui&tbm=isch&ved=2ahUKEwjQ7rXhkLv2AhUKXWwGHZuWDHoQ2-cCegQIABAA&oq=ethereum+wallet+dashboard+ui&gs_lcp=CgNpbWcQA1DMBFj9DmDcEGgAcAB4AIABVogB0ASSAQE4mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=frcpYtC3PIq6seMPm62y0Ac&bih=1001&biw=1920&rlz=1C5CHFA_enTH944TH944#imgrc=IYiIjzP-XLTHTM&imgdii=vnjm-gk8uMLofM
 - https://replit.com/@KornTimaroon/ImperfectImmediateDrivers#index.js:1:4
+- https://replit.com/@KornTimaroon/EcstaticTrustworthyProcessors#index.js
 
 #### Supported Token Type
 
