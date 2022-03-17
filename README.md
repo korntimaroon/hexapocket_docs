@@ -104,8 +104,13 @@ The Plugin network will store in Hexa Pocket API in JSON format.
 
 #### Supported Token Type
 
-| Token Type |
-|------------|
+| Token Type | Description |
+|------------|-------------|
+|ERC-20|TS|
+|ERC-721|NFT|
+|ERC-777|TS|
+|ERC-1155|MTS|
+
 
 
 #### Hexa Pocket Browser Support
