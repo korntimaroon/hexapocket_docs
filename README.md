@@ -113,7 +113,7 @@ The Plugin network will store in Hexa Pocket API in JSON format.
 |ERC-1155|MTS|
 
 
-#### Page 
+#### Page Sitemap
 ```
 |- Account Management Page
 |- Add Account Page
@@ -133,8 +133,14 @@ The Plugin network will store in Hexa Pocket API in JSON format.
 | - Notification Floder 
                          | - Type Trasaction Floder
                                                     | - Notification Transaction Page
-                         | - Type Error Floder
+                                                    | - Add Chain Network Page
+                                                    | - Add Token Page
+                                                    | - Sent Money Page
+                                                    | - Swap Chain Page
+                                                    | - Swap Money Page
+                         | - Type Error and Connection Floder
                                                     | - Notification Error Page
+                                                    | - Connection Page
                          
 ```
 #### Hexa Pocket Browser Support
