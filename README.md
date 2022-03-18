@@ -130,6 +130,12 @@ The Plugin network will store in Hexa Pocket API in JSON format.
                                         | - See My Transaction Transaction Page
                                         | - NFT Page
                                         
+| - Notification Floder 
+                         | - Type Trasaction Floder
+                                                    | - Notification Transaction Page
+                         | - Type Error Floder
+                                                    | - Notification Error Page
+                         
 ```
 #### Hexa Pocket Browser Support
 
