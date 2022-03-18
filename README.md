@@ -84,6 +84,7 @@ The Plugin network will store in Hexa Pocket API in JSON format.
 
 
 
+
 > Source
 
 - https://docs.binance.org/smart-chain/developer/BEP20.html
@@ -112,7 +113,24 @@ The Plugin network will store in Hexa Pocket API in JSON format.
 |ERC-1155|MTS|
 
 
-
+#### Page 
+```
+|- Account Management Page
+|- Add Account Page
+|- Setting Page
+|- Setup Floder
+                | - Login Page
+                | - Signup Page
+                | - Profile Setup Floder
+                                        | - Setup Profile Page
+|- Account Floder |
+                  | - Wallet Page
+                  | - Token View Floder
+                                        | - See My Token Page
+                                        | - See My Transaction Transaction Page
+                                        | - NFT Page
+                                        
+```
 #### Hexa Pocket Browser Support
 
 Hexa Pocket supports all browsers and work in different methods. Such as Google Chrome and Safari, In Google Chrome Hexa Pocket While user opens extension with website in google chromeextension will closes itself as 2 Hexa Pocket windows cannot be opened at the same time. But in safari there is no extension. So when people transact cryptocurrencies, the Hexa Pocken window opens as a safari notification confirming the people to make the transaction.
