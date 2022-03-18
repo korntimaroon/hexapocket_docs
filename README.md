@@ -115,32 +115,49 @@ The Plugin network will store in Hexa Pocket API in JSON format.
 
 #### Page Sitemap
 ```
+Hexa Wallet Advertise Main Floder (ReactJS)
+|- Hexa Pocket Home Page
+|- Hexa Pocket Download Page
+|- Setup Floder |
+                | - Login Page
+                | - Signup Page
+                | - Profile Setup Floder|
+                                        | - Setup Profile Page
+Hexa Quick Swap Main Floder (NextJS)
+| - Quickswap Hexa Floder | 
+                          | - Service Quickswap Type  |
+                                                      | - Sent Money Page
+                                                      | - Chainswap Page
+                                                      | - In-chain Swap Page
+Hexa Wallet Main Floder (NextJS)
 |- Account Management Page
 |- Add Account Page
 |- Setting Page
-|- Setup Floder
-                | - Login Page
-                | - Signup Page
-                | - Profile Setup Floder
-                                        | - Setup Profile Page
 |- Account Floder |
                   | - Wallet Page
-                  | - Token View Floder
+                  | - Token View Floder |
                                         | - See My Token Page
                                         | - See My Transaction Transaction Page
                                         | - NFT Page
-                                        
-| - Notification Floder 
-                         | - Type Trasaction Floder
+                                      
+| - Quickswap Hexa Floder | 
+                          | - Service Quickswap Type  |
+                                                      | - Sent Money Page
+                                                      | - Chainswap Page
+                                                      | - In-chain Swap Page
+                                                      | - Recieve Money Page && Giftcard Page
+                           
+| - Notification Floder  |
+                         | - Type Trasaction Floder |
                                                     | - Notification Transaction Page
                                                     | - Add Chain Network Page
                                                     | - Add Token Page
                                                     | - Sent Money Page
                                                     | - Swap Chain Page
                                                     | - Swap Money Page
-                         | - Type Error and Connection Floder
-                                                    | - Notification Error Page
-                                                    | - Connection Page
+                         | - Type Error and Connection Floder |
+                                                              | - Notification Error Page
+                                                              | - Connection Page
                          
 ```
 #### Hexa Pocket Browser Support
