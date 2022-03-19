@@ -39,7 +39,20 @@ All of Hexa Pocket data is store in Postgresql
 
 #### Plugin Chain and Coin
 
-List of Plugin Chain and Provider
+##### Allow to sent & buy & swap & recieve and & nft
+
+> JSON Example
+
+```json
+[
+  {"chain_id": 1, "allow_to_sent": "yes","allow_to_buy": "yes","allow_to_swap": "yes","allow_to_recieve": "yes","allow_to_nft": "yes"},
+  {"chain_id": 56, "allow_to_sent": "yes","allow_to_buy": "yes","allow_to_swap": "yes","allow_to_recieve": "yes","allow_to_nft": "yes"},
+  {"chain_id": 137, "allow_to_sent": "yes","allow_to_buy": "yes","allow_to_swap": "yes","allow_to_recieve": "yes","allow_to_nft": "yes"},
+  {"chain_id": "else", "allow_to_sent": "yes","allow_to_buy": "no","allow_to_swap": "no","allow_to_recieve": "yes","allow_to_nft": "no"}
+]
+```
+
+##### List of Plugin Chain and Provider
 
 - Hexa Pocket will use Hexa Chain List API to store all of the information of all networks.
 
