@@ -21,7 +21,24 @@ User Account key convert to SHA-1 while signup then will convert to the QR-code,
 b1fa9375fd8c508442628ebd8b7e161ce810ed42
 ```
 
+#### The Support Browser
+
+| Browser | Support |
+|---------|---------|
+| IE | / |
+|Chrome | /|
+|Edge | /|
+|Brave| /|
+|Opera| /|
+|Firefox | /|
+|Safari IOS,Mac,IpadOS | Not Supported |
+
+
+
 #### The Database
+
+
+
 
 All of Hexa Pocket data is store in Postgresql 
 
