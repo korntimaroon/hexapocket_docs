@@ -2,7 +2,7 @@
 
 ## API Description 
 
-In this document will avaabile in a version of Hexa Pocket [Beta 2.0]
+In this document will avaabile in a version of Hexa Pocket [Beta 2.0] [https://www.hexapocket.com]
 
 ## Hexa Pocket Connection
 
