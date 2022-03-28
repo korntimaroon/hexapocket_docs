@@ -40,7 +40,7 @@ b1fa9375fd8c508442628ebd8b7e161ce810ed42
 
 
 
-All of Hexa Pocket data is store in Postgresql 
+All of Hexa Pocket data is store in IPFS OrbitDB Database
 
 >User Database Storing Example (Normal Plan)
 
