@@ -10,10 +10,29 @@ In this document will avaabile from the version of Hexa Pocket [Beta 2.0.0] [htt
 ### Connect to the wallet
 
 ```javascript
+const [hexaconnection, sethexaconnection] = usestate();
 //to connect
-gethexapocketconnect(hexajsonformat);
+function connect_hexa() {
+  try {
+    gethexapocketconnect(hexajsonformat);
+    sethexaconnection(true)
+  } catch (error) {
+    console.log(error)
+  }
+}
+connect_hexa()
+
+
 //to disconnect
-gethexapocketdisconnect(hexajsonformat);
+function disconnect_hexa() {
+  try {
+    gethexapocketdisconnect(hexajsonformat);
+    sethexaconnection(false)
+  } catch (error) {
+    console.log(error)
+  }
+}
+disconnect_hexa()
 ```
 
 
