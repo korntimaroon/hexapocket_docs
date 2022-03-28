@@ -373,35 +373,21 @@ npm install hexapocket_pack
 > Connection
 
 ```javascript
-function Click_connect() {
-  hexapocket_pack.getconnectaccount();
-}
+hexapocket_packgetconnectaccount();
+hexapocket_packgetdisconnectaccount();
 ```
 
-## Use Hexa Pocket Quickswap API
+## Use Hexa Pocket API
 
-### Sent Money
-
-```javascript
-var sent_amount
-var sent_account
-var sent_public_key
-```
-
-### Swap Chain
+### Basic Set
 
 ```javascript
-var sent_amount
-var sent_account
-var sent_public_key
-```
+const [account,set_account] = Usestate()
+const [network,set_network] = usestate()
 
-### Swap Token between chain
 
-```javascript
-var sent_amount
-var sent_account
-var sent_public_key
+set_account(account.hexa_account)
+set_network(network.hexa_network)
 ```
 
 
