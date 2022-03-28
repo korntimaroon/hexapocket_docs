@@ -2,7 +2,7 @@
 
 ## API Description 
 
-In this document will avaabile in a version of Hexa Pocket [Beta 2.0] [https://www.hexapocket.com]
+In this document will avaabile from the version of Hexa Pocket [Beta 2.0.0] [https://www.hexapocket.com]
 
 ## Hexa Pocket Connection
 
@@ -11,9 +11,9 @@ In this document will avaabile in a version of Hexa Pocket [Beta 2.0] [https://w
 
 ```javascript
 //to connect
-gethexapocketconnect();
+gethexapocketconnect(hexajsonformat);
 //to disconnect
-gethexapocketdisconnect();
+gethexapocketdisconnect(hexajsonformat);
 ```
 
 
@@ -31,4 +31,32 @@ console.log(network.hexa_network)
 
 console.log(token.chain[i].hexa_token)
 //It will output the current chain token that the user added)
+```
+
+### Add Token or Network
+
+```javascript
+insertnetworktohexapocket(hexajsonformat);
+inserttokentohexapocket(hexajsonformat);
+```
+
+### Transaction
+
+```javascript
+hexa_pocket.gettokenbalance(token_address, chain_id, wallet_id,token_symbol)
+hexa_pocket.getnetworkbalance(chain_id, wallet_id)
+hexa_pocket.getswaptoken(from_token_address,to_token_address,account,network_id,amount)
+hexa_pocket.senttoken(token_address,from_account,to_account,network_id,amount)
+```
+
+### Check Balance 
+
+```javascript
+hexa_pocket.getbalanceinethereum(account);
+```
+
+### Generating Account
+
+```javascript
+console.log(hexa_pocket.generateaccount("key","pass");
 ```
